@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/bin/Debug/netcoreapp2.0/VacasVaqueras.deps.json
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/bin/Debug/netcoreapp2.0/VacasVaqueras.runtimeconfig.json
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/bin/Debug/netcoreapp2.0/VacasVaqueras.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/bin/Debug/netcoreapp2.0/VacasVaqueras.dll
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/bin/Debug/netcoreapp2.0/VacasVaqueras.pdb
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.AssemblyInfo.cs
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.dll
+/Users/osmarenrique/Projects/VacasVaqueras/VacasVaqueras/obj/Debug/netcoreapp2.0/VacasVaqueras.pdb
