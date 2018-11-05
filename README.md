@@ -27,9 +27,9 @@ namespace VacasVaqueras
 			Console.WriteLine(" Bob= 2 minutos");
 			VacasVaqueras.Push(2);
 			VacasVaqueras.Push(2);
-			VacasVaqueras.Push(4);
-			VacasVaqueras.Push(2);
 			VacasVaqueras.Push(20);
+			VacasVaqueras.Push(2);
+			VacasVaqueras.Push(4);
 			Console.WriteLine(" La suma de los minutos es de: " + Sumas(VacasVaqueras));
 			Console.ReadKey();
 		}
